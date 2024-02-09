@@ -1,8 +1,8 @@
 # fly_connectome
 
 key packages to install:
-neuprint-python
-bokeh
+- neuprint-python
+- bokeh
 
 process for set up access token:
 https://connectome-neuprint.github.io/neuprint-python/docs/quickstart.html
